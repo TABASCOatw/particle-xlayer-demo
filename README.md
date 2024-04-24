@@ -16,7 +16,7 @@ Built using **Particle Auth Core**, **TypeScript**, **Particle AA SDK**
 ## 🔑 Particle Auth Core
 Particle Auth Core, a component of Particle Network's Wallet-as-a-Service, enables seamless onboarding to an application-embedded MPC-TSS/AA wallet facilitated by social login, such as Google, GitHub, email, phone number, etc. - as an alternative to Particle Auth, the Auth Core SDK comes with more control over the modal itself, application-embedded popups rather than redirects, and so on.
 
-[Demo screenshot](https://i.imgur.com/9KI4Dey.png)
+![Demo screenshot](https://i.imgur.com/9KI4Dey.png)
 
 ##
 
